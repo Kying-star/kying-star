@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kying-star?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kying-star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kying-star/kying-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
