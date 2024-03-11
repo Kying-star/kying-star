@@ -1,4 +1,4 @@
-Hello，I'm kyingstar.A front-end engineer and rustacean. 
+Hello, I'm kyingstar. A front-end engineer and rustacean.
 
  - 🔭 I’m currently working on frontend. 
  - 📫 How to reach me: kyingstars@gmail.com
